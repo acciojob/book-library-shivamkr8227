@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f8f8f8;
+	text-align:center;
+}
+.book-library{
+	background-color:#ffffff;
+	box-sizing:border-box;
+	box-shadow:1px 1px 1px 1px gray;
+
+}
+
+h3{
+	text-align:left;
+	margin:0px;
+	padding:0px;
+}
+p{
+	color:#777777;
+	text-align:left;
+	margin:0px;
+	padding:0px;
+}
+button{
+	background-color:#2ecc71;
+	max-width:90%;
+}
